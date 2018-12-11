@@ -1,7 +1,7 @@
 
 public class Sample 
 {
-	public static void main(String[] args) {
+		public static void main(String[] args) {
 		
 	int fact=1;
 		for (int i =1; i<=5 ; i++) 
@@ -9,7 +9,7 @@ public class Sample
 			fact=fact*i;
 			
 		}
-	System.out.println(fact);
+	System.out.println("Factorial for 5"+fact);
 
 	}
 
